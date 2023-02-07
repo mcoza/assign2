@@ -1,0 +1,57 @@
+Mark Cozart
+Class Section:D035A
+Assignment_2
+Due Date:02/06/2022
+Submission Date:02/06/2022
+
+
+your info will be printed twice for varification  
+
+Person 1 what is your name?:stacey
+what is your age?:25
+what is your address?:1050 alabama ave
+what is your Phone Number?:408-500-8500
+
+Name:stacey
+Age:25
+Address:1050 alabama ave
+PhoneNumber:408-500-8500
+
+
+Name:stacey
+Age:25
+Address:1050 alabama ave
+PhoneNumber:408-500-8500
+
+Person 2 what is your name?:ross
+what is your age?:26
+what is your address?:1542 earnest court
+what is your Phone Number?: 408-790-8655
+
+Name:ross
+Age:26
+Address:1542 earnest court
+PhoneNumber: 408-790-8655
+
+
+Name:ross
+Age:26
+Address:1542 earnest court
+PhoneNumber: 408-790-8655
+
+Person 3 what is your name?:mia
+what is your age?:27
+what is your address?:98709 fleebrook place
+what is your Phone Number?:408-999-9997
+
+Name:mia
+Age:27
+Address:98709 fleebrook place
+PhoneNumber:408-999-9997
+
+
+Name:mia
+Age:27
+Address:98709 fleebrook place
+PhoneNumber:408-999-9997
+
